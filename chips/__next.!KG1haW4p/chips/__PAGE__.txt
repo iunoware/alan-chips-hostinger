@@ -5,5 +5,5 @@
 5:I[7819,["592","static/chunks/c15bf2b0-0817d25de15f5a65.js","772","static/chunks/772-7a8b428c47f8b6e9.js","911","static/chunks/911-777d021f85b80c4c.js","816","static/chunks/816-8e03b3a6903a3233.js","227","static/chunks/app/(main)/chips/page-f7091eee898e6abb.js"],"default"]
 6:I[484,[],"OutletBoundary"]
 7:"$Sreact.suspense"
-0:{"buildId":"c-uxgpeKICMj94BuFeeWi","rsc":["$","$1","c",{"children":[[["$","$L2",null,{}],["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{}]],null,["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"aM0NpEo0Dvb-43AXppk4U","rsc":["$","$1","c",{"children":[[["$","$L2",null,{}],["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{}]],null,["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
 8:null
