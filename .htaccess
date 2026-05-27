@@ -1,4 +1,4 @@
-<!-- <IfModule mod_rewrite.c>
+<IfModule mod_rewrite.c>
   RewriteEngine On
   RewriteBase /
 
@@ -21,10 +21,4 @@
   RewriteRule . /index.html [L]
 </IfModule>
 
-Options -Indexes -->
-
-RewriteEngine On
-# Check if the requested file exists as a .html file
-RewriteCond %{REQUEST_FILENAME}.html -f
-# If it does, serve the .html file without showing the extension in the URL
-RewriteRule !.*\.html$ %{REQUEST_FILENAME}.html [L]
+Options -Indexes
